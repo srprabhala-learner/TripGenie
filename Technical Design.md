@@ -1,10 +1,7 @@
 
 # TripGenie — Technical Design Specification (v1)
 
-> Companion to `tripgenie_spec.md` (product/requirements spec). That document says **what** and
-> **why**; this one says **how**, in enough detail to implement from.
-> Locked decisions D1–D7 from the product spec are assumed throughout.
-> Target cloud: **AWS**. AI Gateway: **Portkey**.
+
 
 ---
 
